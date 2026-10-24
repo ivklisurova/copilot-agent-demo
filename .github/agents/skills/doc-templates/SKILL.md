@@ -8,5 +8,7 @@ Pick the template by task and copy its headings exactly:
 - Table or model docs: templates/data-model.md
 - Pipeline or job docs: templates/pipeline.md
 
-Fill every section. Write "TBD: confirm with owner" for anything not found
-in the code. Never invent names, contacts or procedures.
+Before writing, read the matching template with the file-reading tool.
+Fill every section. If a template does not exist, say so and use a sensible
+default structure. Do not skip sections; write "TBD: confirm with owner".
+Save output to docs/<type>/<name>.md.
