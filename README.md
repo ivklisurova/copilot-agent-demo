@@ -117,7 +117,7 @@ Project documentation lives under the repository's `docs/` directory:
 
 Project documentation is available in the repository root:
 
-- [pipeline.md](./pipeline.md) — pipeline overview, source/target mapping, quality checks, and configuration
+- [pipeline.md](./pipeline.md) — pipeline overview, sources/targets, and data-quality checks
 - [data-model.md](./data-model.md) — model definition for `CUSTOMER_SUMMARY`
 - [runbook.md](./runbook.md) — operational runbook for health checks and known failure modes
 

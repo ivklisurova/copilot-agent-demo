@@ -1,6 +1,6 @@
 ---
 name: doc-templates
-description: Documentation templates for data models, pipelines and runbooks. Use when writing or updating data engineering documentation.
+description: Documentation templates for data models and pipelines. Use when writing or updating data engineering documentation.
 ---
 # Documentation templates
 
