@@ -105,6 +105,13 @@ python run_pipeline.py --dry-run
 Logging is configured at INFO level. The transform functions can also be
 imported and exercised independently with pandas DataFrames.
 
+## Documentation
+
+Project docs live under the repository's `docs/` directory:
+
+- [docs/pipeline-overview.md](docs/pipeline-overview.md) — end-to-end ETL flow, environment variables, and known gaps
+- [docs/models/customer-summary.md](docs/models/customer-summary.md) — model definition for `CUSTOMER_SUMMARY`
+
 ## Current repository limitations
 
 The repository does not currently contain the files needed to run the entry
