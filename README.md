@@ -107,10 +107,11 @@ imported and exercised independently with pandas DataFrames.
 
 ## Documentation
 
-Project docs live under the repository's `docs/` directory:
+Project documentation lives under the repository's `docs/` directory:
 
-- [docs/pipeline-overview.md](docs/pipeline-overview.md) — end-to-end ETL flow, environment variables, and known gaps
+- [docs/copilot-agent-demo-pipeline.md](docs/copilot-agent-demo-pipeline.md) — end-to-end ETL flow, sources/targets, and data quality expectations
 - [docs/models/customer-summary.md](docs/models/customer-summary.md) — model definition for `CUSTOMER_SUMMARY`
+- [docs/copilot-agent-demo-runbook.md](docs/copilot-agent-demo-runbook.md) — runbook for health checks, known failure modes, rerun guidance, and rollback considerations
 
 ## Current repository limitations
 
