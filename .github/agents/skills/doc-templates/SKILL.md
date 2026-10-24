@@ -16,6 +16,17 @@ Pick the template by task and copy its headings exactly:
    Write "TBD: confirm with owner" for anything not found.
 4. Cite the source file for each statement.
 
+## Output folders
+If docs/, docs/models/ or docs/pipelines/ do not exist, create them by creating
+the file at the target path.
+
+## If a template file is missing
+Do not create or rewrite templates. Tell the user which template file was not
+found, then use the default structure:
+- Models: Purpose, Grain and keys, Columns, Lineage, Owner and retention
+- Pipelines: Purpose, Sources and targets, Steps, Load pattern, Dependencies,
+  Data quality checks, Sensitive data, Source files
+
 ## Rules
 - Never create README.md or index files inside docs/. The root README.md is the
   only README, and the agent updates its Documentation section.
