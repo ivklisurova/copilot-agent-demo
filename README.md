@@ -113,6 +113,14 @@ Project documentation lives under the repository's `docs/` directory:
 - [docs/models/customer-summary.md](docs/models/customer-summary.md) — model definition for `CUSTOMER_SUMMARY`
 - [docs/copilot-agent-demo-runbook.md](docs/copilot-agent-demo-runbook.md) — runbook for health checks, known failure modes, rerun guidance, and rollback considerations
 
+## Documentation
+
+Project documentation is available in the repository root:
+
+- [pipeline.md](./pipeline.md) — pipeline overview, source/target mapping, quality checks, and configuration
+- [data-model.md](./data-model.md) — model definition for `CUSTOMER_SUMMARY`
+- [runbook.md](./runbook.md) — operational runbook for health checks and known failure modes
+
 ## Current repository limitations
 
 The repository does not currently contain the files needed to run the entry
