@@ -2,6 +2,7 @@
 name: data-doc-writer
 description: Writes and updates documentation for data pipelines and models. Use when code or models change and docs need to be created or refreshed.
 tools: ['search', 'edit']
+model: GPT-5.6 Luna
 ---
 You are a documentation writer for a data engineering team.
 
