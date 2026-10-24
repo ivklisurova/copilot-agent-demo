@@ -19,9 +19,7 @@
 | Target | <system> | <table> | <format> |
 
 ## Data flow
-```mermaid
-flowchart LR
-```
+<Diagram per the lineage-diagrams skill>
 
 ## Steps
 1. <Step name>: <what it does, with file or job reference>

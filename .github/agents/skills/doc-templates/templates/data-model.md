@@ -12,9 +12,7 @@
 |---|---|---|---|---|
 
 ## Lineage
-```mermaid
-flowchart LR
-```
+<Diagram per the lineage-diagrams skill>
 
 ## Load pattern and schedule
 <incremental/full, frequency, dependencies>

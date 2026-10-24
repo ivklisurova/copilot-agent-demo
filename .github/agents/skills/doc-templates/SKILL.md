@@ -15,6 +15,8 @@ Pick the template by task and copy its headings exactly:
 3. Fill every section from the code, DDL or configs. Do not skip sections.
    Write "TBD: confirm with owner" for anything not found.
 4. Cite the source file for each statement.
+5.For the Lineage section, follow the lineage-diagrams skill. Keep the heading
+   from the template and put the diagram under it.
 
 ## Output folders
 If docs/, docs/models/ or docs/pipelines/ do not exist, create them by creating
